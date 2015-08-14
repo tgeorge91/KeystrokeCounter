@@ -1,0 +1,10 @@
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\KeystrokeCounter.exe.config
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\KeystrokeCounter.exe
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\KeystrokeCounter.pdb
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\obj\Debug\KeystrokeCounter.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\obj\Debug\KeystrokeCounter.exe
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\obj\Debug\KeystrokeCounter.pdb
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\history.json
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\today.json
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\Newtonsoft.Json.xml
